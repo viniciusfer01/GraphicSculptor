@@ -1,0 +1,11 @@
+InterfaceEscultor.pro
+color.cpp
+color.h
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+plotter.cpp
+plotter.h
+sculptor.cpp
+sculptor.h
